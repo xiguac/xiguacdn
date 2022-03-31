@@ -1,5 +1,5 @@
 # xiguacdn
-由github搭建的cdn  
+由github仓库搭建的cdn  
   
 引用layui的css  
 `<link rel="stylesheet" type="text/css" href="https://githubcdn.oa5.xyz/layui/css/layui.css" />`  
